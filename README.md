@@ -1,2 +1,2 @@
 # Java_Input
-Taking inputs in java
+Formatting inputs in java
